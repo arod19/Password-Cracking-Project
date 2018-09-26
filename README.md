@@ -9,6 +9,7 @@
 - Resources: For this project, I will be using my MacBook Pro as my host machine and will have Kali Linux running on a VM (VirtualBox). Softwares used aside from VirtualBox will be John The Ripper and its GUI, Johnny.
  
 - References:
+
 Kali Linux Official Documentation:
 + https://docs.kali.org/introduction/what-is-kali-linux
 
