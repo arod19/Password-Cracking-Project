@@ -9,16 +9,16 @@
 - Resources: For this project, I will be using my MacBook Pro as my host machine and will have Kali Linux running on a VM (VirtualBox). Softwares used aside from VirtualBox will be John The Ripper and its GUI, Johnny.
  
 - References:
-1- Kali Linux Official Documentation:
+Kali Linux Official Documentation:
 + https://docs.kali.org/introduction/what-is-kali-linux
 
-2- Password Cracking:
+Password Cracking:
 + https://www.techopedia.com/definition/4044/password-cracking
 
-3- John the Ripper:
+John the Ripper:
 + https://en.wikipedia.org/wiki/John_the_Ripper
 + https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-user-passwords-linux-system-0147164/
 
-4- Kali Linux passwords:
+Kali Linux passwords:
 + https://www.cyberpratibha.com/unshadow-the-file-and-dump-linux-password/
 + https://www.cyberciti.biz/faq/understanding-etcshadow-file/
